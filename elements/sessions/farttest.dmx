@@ -208,7 +208,7 @@
 	]
 	"displayScale" "float" "1.0"
 	"materialOverlay" element
-	"mapname" "string" ""
+	"mapname" "string" "cp_dustbowl.bsp"
 	"camera" element
 	"monitorCameras" "element_array" [ ]
 	"activeMonitor" "int" "-1"
